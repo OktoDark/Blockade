@@ -2,8 +2,11 @@
 
 Is a free game given by OktoDark.
 
-Description
+# Description
+
 Is a maze game where you must to find the exit, now is only 10 levels, more will be added later.
 
 
-PS. Is a game for all ages. :-)
+2016 © OktoDark.
+
+[http://www.oktodark.com](http://www.oktodark.com)
